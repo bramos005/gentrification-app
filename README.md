@@ -1,8 +1,3 @@
-# React + Vite
+Rent Rise: Visualizing Gentrification
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Rent Rise is an app that analyzes gentrification trends using StreetEasy data. It combines React, Leaflet for interactive mapping, and ReCharts for data visualization, offering a clear view of how neighborhoods change over time. Ideal for urban planners, researchers, and anyone interested in the dynamics of urban development.
